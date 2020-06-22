@@ -36,9 +36,8 @@ After training for 30 epochs below is the plots of loss for train and validation
 
 ![sample validation](https://github.com/prarthananbhat/vehicle_classification/blob/master/sample%20validations.png?raw=true "Sample Images form Validation Set")
 
-2. Below are missclassified images from the validation set. "Know what your model has not learnt from this image"
-
-Tial 19 missclassification (16 are shown)
+2. Below are missclassified images from the validation set. "Know what your model has not learnt from this image". 
+Total 19 missclassification (16 are shown)
 
 ![misclassification](https://github.com/prarthananbhat/vehicle_classification/blob/master/miss%20classified%20images.png?raw=true "Misclassified images")
 
