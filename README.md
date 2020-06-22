@@ -11,6 +11,10 @@ Objective : Classify the emergency and non emergency vehicles
 6. Leader board Score : 97.60
 
 Let us look at a few images form the train set.
+Trasformation applies are:
+1. Horizontal Flip
+2. Random Rotation
+
 ![raw images](https://github.com/prarthananbhat/vehicle_classification/blob/master/raw%20data.png?raw=true "Raw Data")
 
 After training for 30 epochs below is the plots of loss for train and validation set
