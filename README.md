@@ -4,7 +4,7 @@ Refer the notebook for the code:
 [NOTEBOOK](https://github.com/prarthananbhat/vehicle_classification/blob/master/vehicle_classification_submission.ipynb)
 
 ### Overview
-1. Total Images : 1646 in Train, 706 in Test, Emergency Vehicles tagges as 1 and Non emergency Vehicles Tagges as 0
+1. Total Images : 1646 in Train, 706 in Test, Emergency Vehicles tagged as 1 and Non emergency Vehicles Tagged as 0
 2. Leader board Score : 97.60
 
 Let us look at a few images form the train set.
