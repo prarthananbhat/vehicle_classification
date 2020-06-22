@@ -24,12 +24,23 @@ After training for 30 epochs below is the plots of loss for train and validation
 
 ### Model Validation
 1. View of predictions from validation set
+2. Model Stats
+    1. Accuracy: 0.923
+    2. Confusion Matrix: 
 
-![loss curves](https://github.com/prarthananbhat/vehicle_classification/blob/master/sample%20validations.png?raw=true "Sample Images form Validation Set")
+|           | Actual |    |
+|-----------|--------|----|
+| Predicted | 0      | 1  |
+| 0         | 133    | 4  | 
+| 1         | 15     | 94 |
+
+![sample validation](https://github.com/prarthananbhat/vehicle_classification/blob/master/sample%20validations.png?raw=true "Sample Images form Validation Set")
 
 2. Below are missclassified images from the validation set. "Know what your model has not learnt from this image"
 
-![loss curves](https://github.com/prarthananbhat/vehicle_classification/blob/master/miss%20classified%20images.png?raw=true "Misclassified images")
+Tial 19 missclassification (16 are shown)
+
+![misclassification](https://github.com/prarthananbhat/vehicle_classification/blob/master/miss%20classified%20images.png?raw=true "Misclassified images")
 
 
 
