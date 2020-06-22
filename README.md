@@ -1,5 +1,7 @@
 # Vehicle Classification
 ## Janata Hack: Emergency vs Non-Emergency Vehicle Classification
+Refer the notebook for the code:
+[NOTEBOOK](https://github.com/prarthananbhat/vehicle_classification/blob/master/vehicle_classification_submission.ipynb)
 
 ### Overview
 1. Total Images : 1646 in Train, 706 in Tes, Emergency Vehicles tagges as 1 and Non emergency Vehicles Tagges as 0
