@@ -8,7 +8,7 @@ Refer the notebook for the code:
 2. Leader board Score : 97.60
 
 Let us look at a few images form the train set.
-Trasformation applies are:
+Trasformation applied are:
 1. Horizontal Flip
 2. Random Rotation
 
